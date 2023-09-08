@@ -1,5 +1,6 @@
 # YOLO Truck Detection Project
 
+![Truck Detection result](https://github.com/Fatemeh-Farnaghizadeh/Fine-Tuning-YOLOV5-V8-NAS/blob/master/demo_img.jpg)
 ![Truck Detection Demo](https://github.com/Fatemeh-Farnaghizadeh/Fine-Tuning-YOLOV5-V8-NAS/blob/master/all_yolo.mp4)
 
 ## Overview
