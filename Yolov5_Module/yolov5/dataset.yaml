@@ -1,0 +1,8 @@
+train: ../TruckDataset/images/train/
+val: ../TruckDataset/images/val/ 
+
+nc: 1
+
+names: ['truck']
+
+
