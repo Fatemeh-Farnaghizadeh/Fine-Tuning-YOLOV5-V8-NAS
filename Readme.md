@@ -1,7 +1,6 @@
 # YOLO Truck Detection Project
 
 ![Truck Detection result](https://github.com/Fatemeh-Farnaghizadeh/Fine-Tuning-YOLOV5-V8-NAS/blob/master/demo_img.jpg)
-![Truck Detection Demo](https://github.com/Fatemeh-Farnaghizadeh/Fine-Tuning-YOLOV5-V8-NAS/blob/master/all_yolo.mp4)
 
 ## Overview
 
@@ -32,6 +31,6 @@ The dataset used for this project is sourced from actual CCTV cameras, providing
     - **3- YOLO-V5**: [Guide](https://github.com/Fatemeh-Farnaghizadeh/Fine-Tuning-YOLOV5-V8-NAS/blob/master/Yolov5_Module/Yolov5_Detection_Guide.docx)
 
 - **Video Demonstration**: Watch our full video demonstration to witness the power of these fine-tuned YOLO models as they accurately detect trucks within complex CCTV footage, even under challenging conditions.
-
-- [download the Video](http://dmiftp.uqtr.ca/Public/FMeunier/ImagesETVideo/VideoCamions/)
+- [Truck Detection Demo](https://github.com/Fatemeh-Farnaghizadeh/Fine-Tuning-YOLOV5-V8-NAS/blob/master/all_yolo.mp4)
+- [Download Original Video](http://dmiftp.uqtr.ca/Public/FMeunier/ImagesETVideo/VideoCamions/)
 
